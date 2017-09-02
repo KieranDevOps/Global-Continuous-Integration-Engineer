@@ -27,14 +27,14 @@ Brand new CI/CD tooling strategy. The current stack is AWS (moving from elastic 
 Please email Kieran@tecknuovo.com if you’d like to talk through the above in more detail.
 
 # Questions:
-What is the salary range? 
+***What is the salary range?**
 £60,000 to £75,000
 
-Do they offer remote/flexible working? 
+***Do they offer remote/flexible working?**
 Yes, but you will need to build trust with your manager first, its not a guarantee.
 
-Will you be required to travel? 
+**Will you be required to travel?** 
 Not within the UK no however this is part of a global team so the odd trip to Europe (once a 1/4) is likely.
 
-What is the team strucutre?
+***What is the team strucutre?**
 This role reports to the Global CI Manager and is a senior positon in a team of 6 (4 UK, 2 EU). 
